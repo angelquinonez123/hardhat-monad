@@ -1,0 +1,4 @@
+https://github.com/monad-developers/hardhat-monad.git
+npm install
+cp .0x7a237F85fe4666d2055e3a1DEA9620B8DC96B6CD.example .0x7a237F85fe4666d2055e3a1DEA9620B8DC96B6CD
+npx hardhat node
